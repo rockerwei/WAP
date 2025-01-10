@@ -1,6 +1,6 @@
 # WAP
 # Test Outcome
-![output](https://github.com/user-attachments/assets/f7d4d11b-fb1c-49ca-a216-b856fd9c98ca)
+![output](https://github.com/user-attachments/assets/6b861cdf-5dfd-448d-93e8-003e1189892b)
 # Structure
 core/base, Base Classes or Frameworks
 page, Page Objects
